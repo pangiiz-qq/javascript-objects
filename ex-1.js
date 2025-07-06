@@ -1,7 +1,7 @@
 // Exercise #1: Food Order
 
 // Start coding here
-let foodOrder = {
+const foodOrder = {
   orderNumber: "A0234",
   address: "Bangkok",
   paymentType: "Cash",
